@@ -20,7 +20,7 @@ Employee Data: The primary dataset used for this analysis is the "Employee Sampl
 
 ### Tools
 
-- Excel - Database Manageemnt[Download Here](https://microsoft.com)
+- Excel - Database Manageemnt [Download Here](https://microsoft.com)
 - Power Query Editor - Data Cleaning and Analysis
 - Power BI Desktop - Creating Reports [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
